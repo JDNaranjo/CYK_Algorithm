@@ -1,0 +1,10 @@
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\bin\Debug\CYK.exe.config
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\bin\Debug\CYK.exe
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\bin\Debug\CYK.pdb
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\obj\Debug\CYK.csprojAssemblyReference.cache
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\obj\Debug\CYK.Form1.resources
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\obj\Debug\CYK.Properties.Resources.resources
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\obj\Debug\CYK.csproj.GenerateResource.cache
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\obj\Debug\CYK.csproj.CoreCompileInputs.cache
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\obj\Debug\CYK.exe
+C:\Users\Juan Naranjo\source\repos\CYK\CYK\obj\Debug\CYK.pdb
